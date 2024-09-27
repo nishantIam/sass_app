@@ -32,5 +32,10 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.12",
     "vite": "^5.4.1"
+  },
+  "overrides": {
+    "react-slidedown": {
+      "react": "^18.3.1"
+    }
   }
 }
